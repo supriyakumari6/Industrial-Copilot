@@ -13,4 +13,4 @@ with mlflow.start_run():
     # Train model here
 
     # mlflow.log_metric("accuracy", accuracy)
-    # mlflow.sklearn.log_model(model, "model")
+    # mlflow.sklearn.log_model("model", model)
