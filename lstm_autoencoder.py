@@ -20,8 +20,11 @@ class LSTMAutoencoder(nn.Module):
         )
 
     def forward(self, x):
+
+        
         encoded, _ = self.encoder(x)
         decoded, _ = self.decoder(encoded)
         return decoded
 
 ## lstm_autoencoder
+## Autoencode(Gen AI)
