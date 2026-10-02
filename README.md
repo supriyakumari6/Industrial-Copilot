@@ -3,4 +3,4 @@
 
 Currently developing the sensor-data preprocessing and Machine Learning/Deep Learning anomaly detection pipeline.
 
-Planned integration of Qdrant vector search, Ollama/LLMs, QLoRA fine-tuning, MLflow-based MLOps, and FastAPI deployment.
+Planned integration of Qdrant vector search, Ollama/LLMs(Large Language Model), QLoRA fine-tuning, MLflow-based MLOps, and FastAPI deployment.
