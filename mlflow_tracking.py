@@ -10,7 +10,7 @@ with mlflow.start_run():
     mlflow.log_param("model", "RandomForest")
     mlflow.log_param("n_estimators", n_estimators)
 
-    # Train model here
+    ## Train model here:---
 
     # mlflow.log_metric("accuracy", accuracy)
     # mlflow.sklearn.log_model("model", model)
