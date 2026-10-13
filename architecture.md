@@ -1,6 +1,6 @@
 # System Architecture
 
-## Current
+## Current Scenario 
 
 Sensor Data
     ↓
